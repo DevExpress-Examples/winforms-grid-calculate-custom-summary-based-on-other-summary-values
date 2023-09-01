@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 
-# WinForms Data Grid - How to calculate a total summary on other columns' summary values
+# WinForms Data Grid - How to calculate a total summary based on other columns' summary values
 
 The [GridView.CustomSummaryCalculate](https://docs.devexpress.com/WindowsForms/DevExpress.XtraGrid.Views.Grid.GridView.CustomSummaryCalculate) event does not allow you to obtaina total summaries calculated against another columns. This example handles the [GridView.CustomDrawFooterCell](https://docs.devexpress.com/WindowsForms/DevExpress.XtraGrid.Views.Grid.GridView.CustomDrawFooterCell) and [GridView.CustomDrawGroupRowFooterCell](https://docs.devexpress.com/WindowsForms/DevExpress.XtraGrid.Views.Grid.GridView.CustomDrawRowFooterCell) events to calculate total summary values based on other column's total summaries and display custom summaries within footer and group footer cells.
 

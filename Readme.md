@@ -22,4 +22,4 @@ The [GridView.CustomSummaryCalculate](https://docs.devexpress.com/WindowsForms/D
 
 ## See Also
 
-* [WinForms Grid Video: Introduction to Summaries (YouTube)](https://youtu.be/3sc7ENaACVw?si=X70ObBxo7EfkeTLB)
+* [WinForms Grid Video: Introduction to Summaries (YouTube)](https://www.youtube.com/watch?v=3sc7ENaACVw)
